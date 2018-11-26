@@ -1,7 +1,7 @@
-# Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
+﻿# Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/javascript/16/user/810039).
-* Наставник: `Неизвестно`.
+* Студент: [Вахрин Роман](https://up.htmlacademy.ru/javascript/16/user/810039).
+* Наставник: `Алексей Хапов`.(https://htmlacademy.ru/profile/id118459)
 
 ---
 
